@@ -7,10 +7,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Competition_Ready-orange.svg)
 
-<div align="center">
-<img src="images/General_Lee.gif" width="300" alt="Robot in action">
-</div>
-
 *Note: This repository serves as a technical showcase and documentation portfolio for the project. The core proprietary C++ firmware is maintained in a private repository by the RoboTec engineering team.*
 
 This project showcases the hardware architecture and control methodology developed for the High-Speed Line Follower competitive robotics category. It relies on a custom Proportional-Integral-Derivative (PID) control system featuring real-time dynamic tuning, high-inertia predictive braking, and multiplexed analog processing of a 16-sensor reflective array.
