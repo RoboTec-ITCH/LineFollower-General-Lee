@@ -7,10 +7,6 @@
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-green.svg)
 ![Estado](https://img.shields.io/badge/Estado-Competici%C3%B3n-orange.svg)
 
-<div align="center">
-<img src="images/General_Lee.gif" width="300" alt="Robot en acción">
-</div>
-
 *Nota: Este repositorio sirve como una exhibición técnica y portafolio de documentación del proyecto. El firmware principal en C++ es propiedad de la organización y se mantiene en un repositorio privado administrado por el equipo de ingeniería de RoboTec.*
 
 Este proyecto muestra la arquitectura de hardware y la metodología de control desarrollada para la categoría de robótica competitiva de Seguidores de Línea Velocistas. Se basa en un sistema de control PID (Proporcional, Integral, Derivativo) con ajustes dinámicos en tiempo real, frenado predictivo de alta inercia y procesamiento multiplexado de una barra de 16 sensores reflectivos.
