@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.itchrobotec.com/images/logow.png" alt="RoboTec Logo" width="720">
-</p>
-
 # Credits & Acknowledgments
 
 This project is the result of dedicated engineering, testing, and collaboration. The hardware architecture and its underlying control logic represent months of iteration and track validation.
